@@ -13,7 +13,7 @@ Brain Hemorrhage Detection System (Image &amp; CT Scan Analysis) Repository Over
    "metadata": {},
    "source": [
     "**About the data:** <br>\n",
-    "The dataset contains 2 folders: yes and no which contains 253 Brain MRI Images. The folder yes contains 155 Brain MRI Images that are tumorous and the folder no contains 98 Brain MRI Images that are non-tumorous. You can find [here](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)."
+    "The dataset contains 2 folders: yes and no which contains 253 Brain MRI Images. The folder yes contains 155 Brain MRI Images that are tumorous and the folder no contains 98 Brain MRI Images that are non-tumorous. You can find [here]()."
    ]
   },
   {
